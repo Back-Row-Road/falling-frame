@@ -1,2 +1,2 @@
-# boilerPlate
-basic starting file structure for Umass Dartmouth
+# Animating with JavaScript and the animate.style library
+Button triggering an animation
